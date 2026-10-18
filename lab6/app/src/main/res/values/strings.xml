@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">30 Days of Travel</string>
+
+    <string name="day1_title">Marrakech, Morocco</string>
+    <string name="day1_description">Get lost in the medina, bargain in the souks and end the day with mint tea on a rooftop as the sun sets.</string>
+
+    <string name="day2_title">Cairo, Egypt</string>
+    <string name="day2_description">Stand in front of the Pyramids of Giza and imagine how people built them thousands of years ago.</string>
+
+    <string name="day3_title">Sidi Bou Said, Tunisia</string>
+    <string name="day3_description">Walk the blue and white streets above the Mediterranean and enjoy a coffee with a view of the bay.</string>
+
+    <string name="day4_title">Istanbul, Turkey</string>
+    <string name="day4_description">Cross a continent by ferry, visit the Hagia Sophia and taste fresh simit from a street vendor.</string>
+
+    <string name="day5_title">Santorini, Greece</string>
+    <string name="day5_description">Watch the sunset from Oia over white houses, blue domes and the deep blue Aegean Sea.</string>
+
+    <string name="day6_title">Rome, Italy</string>
+    <string name="day6_description">Explore the Colosseum, toss a coin in the Trevi Fountain and finish with a real Italian gelato.</string>
+
+    <string name="day7_title">Barcelona, Spain</string>
+    <string name="day7_description">Marvel at the Sagrada Familia, stroll down Las Ramblas and share tapas with new friends.</string>
+
+    <string name="day8_title">Lisbon, Portugal</string>
+    <string name="day8_description">Ride the yellow tram through hilly streets and taste a warm pastel de nata fresh from the oven.</string>
+
+    <string name="day9_title">Paris, France</string>
+    <string name="day9_description">Climb the Eiffel Tower, wander along the Seine and enjoy a croissant at a corner cafe.</string>
+
+    <string name="day10_title">The Swiss Alps, Switzerland</string>
+    <string name="day10_description">Take a mountain train to snowy peaks and breathe the cleanest air you have ever felt.</string>
+
+    <string name="day11_title">Berlin, Germany</string>
+    <string name="day11_description">Walk through the Brandenburg Gate and discover a city where history and street art meet.</string>
+
+    <string name="day12_title">Prague, Czech Republic</string>
+    <string name="day12_description">Cross the old Charles Bridge at sunrise, when the city is quiet and the fog hangs over the river.</string>
+
+    <string name="day13_title">Amsterdam, Netherlands</string>
+    <string name="day13_description">Rent a bike and follow the canals past narrow houses, flower markets and cozy cafes.</string>
+
+    <string name="day14_title">The Fjords, Norway</string>
+    <string name="day14_description">Sail between steep cliffs and waterfalls on a quiet boat ride through one of the most dramatic landscapes on Earth.</string>
+
+    <string name="day15_title">Reykjavik, Iceland</string>
+    <string name="day15_description">Soak in a geothermal pool and, if you are lucky, watch the northern lights dance across the night sky.</string>
+
+    <string name="day16_title">Dubai, United Arab Emirates</string>
+    <string name="day16_description">See the city from the top of the Burj Khalifa, then escape to the desert for a dune adventure.</string>
+
+    <string name="day17_title">Petra, Jordan</string>
+    <string name="day17_description">Walk through a narrow canyon until the famous rose-colored Treasury appears right in front of you.</string>
+
+    <string name="day18_title">Agra, India</string>
+    <string name="day18_description">Visit the Taj Mahal at dawn, when the white marble glows soft pink in the early light.</string>
+
+    <string name="day19_title">The Himalayas, Nepal</string>
+    <string name="day19_description">Hike a mountain trail, sleep in a small village and wake up to the highest peaks in the world.</string>
+
+    <string name="day20_title">Bangkok, Thailand</string>
+    <string name="day20_description">Eat pad thai at a street stall, ride a long-tail boat and visit golden temples glittering in the sun.</string>
+
+    <string name="day21_title">Ha Long Bay, Vietnam</string>
+    <string name="day21_description">Cruise between thousands of limestone islands rising out of calm emerald water.</string>
+
+    <string name="day22_title">Kyoto, Japan</string>
+    <string name="day22_description">Walk beneath a tunnel of red gates and sip green tea in a quiet garden that feels centuries old.</string>
+
+    <string name="day23_title">Seoul, South Korea</string>
+    <string name="day23_description">Mix old palaces with modern skyscrapers and try spicy street food in a busy night market.</string>
+
+    <string name="day24_title">Bali, Indonesia</string>
+    <string name="day24_description">Wander through green rice terraces, visit a peaceful temple and watch the waves from a quiet beach.</string>
+
+    <string name="day25_title">Sydney, Australia</string>
+    <string name="day25_description">See the Opera House from the harbor, then relax on Bondi Beach with the Pacific Ocean in front of you.</string>
+
+    <string name="day26_title">Queenstown, New Zealand</string>
+    <string name="day26_description">Surrounded by mountains and a clear blue lake, this is the adventure capital for every kind of explorer.</string>
+
+    <string name="day27_title">New York City, USA</string>
+    <string name="day27_description">Stroll through Central Park, watch the lights of Times Square and see the skyline from a ferry.</string>
+
+    <string name="day28_title">Banff, Canada</string>
+    <string name="day28_description">Admire turquoise lakes surrounded by snowy mountains and forests in the heart of the Rockies.</string>
+
+    <string name="day29_title">Chichen Itza, Mexico</string>
+    <string name="day29_description">Climb the steps of an ancient Mayan pyramid and learn how this civilization studied the stars.</string>
+
+    <string name="day30_title">Machu Picchu, Peru</string>
+    <string name="day30_description">Reach the lost city of the Incas, hidden high in the clouds, and finish your 30-day journey at the top.</string>
+</resources>
